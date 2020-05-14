@@ -11,7 +11,7 @@
 아래는 hellow world를 출력하는 c++코드 입니다.
 ```cpp
 #include<iosream>
-{}
+{};
   
 
 | c++14 | c++13|
